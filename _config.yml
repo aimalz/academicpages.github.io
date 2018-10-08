@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Alex Malz"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Alex Malz"
+description              : &description "Physics Ph.D. Candidate"
 url                      : https://aimalz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aimalz/aimalz.github.io"
@@ -82,27 +82,27 @@ author:
   name             : "Alex Malz"
 #   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+#  location         : "Location"
+  employer         : "New York University"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
+#   uri              :
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
 #   flickr           :
 #   facebook         :
 #   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/aimalz"
 #   google_plus      :
-  keybase          :
+#   keybase          :
 #   instagram        :
 #   lastfm           :
 #   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-8676-1622"
 #   pinterest        :
 #   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#   stackoverflow    : # http://stackoverflow.com/users/123456/username
 #   steam            :
 #   tumblr           :
 #   twitter          : "replacethistwitterhandle"
@@ -110,7 +110,7 @@ author:
 #   weibo            :
 #   xing             :
 #   youtube          :
-  wikipedia        :
+#   wikipedia        :
 
 
 # Reading Files
@@ -250,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
